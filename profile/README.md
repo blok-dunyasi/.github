@@ -3,4 +3,4 @@ Blok Dünyası is a Minecraft server designed for Turkishes, by Turkishes -we ho
 
 Website: https://blokdunyasi.network
 
-Blok Dünyası shares only open-source of minimal projects.
+All codes that are forked by @Obliviated, are made for Blok Dünyası. 
