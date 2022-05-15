@@ -1,12 +1,6 @@
-## Hi there 👋
+## Blok Dünyası Network
+Blok Dünyası is a Minecraft server designed for Turkishes, by Turkishes -we hope someday we'll design it world wide-. Purpose of this Github organization is developing and storing custom plugins that made for Blok Dünyası. <!--The term 'made for' can include forked codes.-->
 
-<!--
+Website: https://blokdunyasi.network
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<!--Blok Dünyası shares only open-source of minimal projects.-->
